@@ -1,0 +1,9 @@
+package sistema_funcionarios;
+
+public class FuncionarioHorista {
+
+	public FuncionarioHorista() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
